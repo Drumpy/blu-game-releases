@@ -2,7 +2,10 @@
 
 ![Banner de Blu: Night Run](./assets/banner.png)
 
-Este repositorio publica los instaladores y archivos de actualización de **Blu: Night Run**. Acá viven las releases públicas del juego y el `latest.json` que usa el auto-updater de la app de escritorio.
+> [!IMPORTANT]
+> Para mejor rendimiento y para usar correctamente el shader **CRT**, se recomienda tener la **aceleración por GPU** habilitada.
+
+Releases públicas de **Blu: Night Run**. Este repo concentra los instaladores y el `latest.json` del auto-updater.
 
 ## Sobre el juego
 
